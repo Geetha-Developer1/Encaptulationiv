@@ -28,7 +28,7 @@ namespace Encaptulationiv
             {
                 Shape s = new Circle(5);
                 Console.WriteLine("Area is :" + s.GetArea());
-            Console.WriteLine();
+            Console.WriteLine("Hello");
             }
         }
     }
